@@ -2,7 +2,7 @@
 
 This is the official PyTorch implementation of TBSR. 
 
-Our Team received 2nd place (real data track) and 3rd place (synthetic track) in [**NTIRE 2022 Burst Super-Resolution Challenge**](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Bhat_NTIRE_2022_Burst_Super-Resolution_Challenge_CVPRW_2022_paper.pdf) (CVPRW 2022).
+Our team received 2nd place (real data track) and 3rd place (synthetic track) in [**NTIRE 2022 Burst Super-Resolution Challenge**](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Bhat_NTIRE_2022_Burst_Super-Resolution_Challenge_CVPRW_2022_paper.pdf) (CVPRW 2022).
 
 Please see more detailed descriptions of TBSR from [`TBSR.pdf`](TBSR.pdf).
 
